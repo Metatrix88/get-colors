@@ -1,3 +1,10 @@
-<p> Color selection by pressing the space bar.</p>
-<p> Copying and transferring URLs without data loss. </p> 
-<p> Fixing one of the selected color. </p>
+# My mini pet project of picking out five colors.
+
+---
+
+<p> This project uses only HTML, CSS, JS. </p> 
+<p> Implemented such functionality as: </p> 
+
+ * selecting a color using the 'space' button and locking the color you like using the 'lock' button;
+ * color name copying;
+ * URL transfer without reloading, using 'hash'.
